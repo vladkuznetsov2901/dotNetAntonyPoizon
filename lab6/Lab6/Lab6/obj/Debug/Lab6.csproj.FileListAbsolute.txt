@@ -1,0 +1,9 @@
+D:\Studies\dotNet\lab6\Lab6\Lab6\bin\Debug\Lab6.exe.config
+D:\Studies\dotNet\lab6\Lab6\Lab6\bin\Debug\Lab6.exe
+D:\Studies\dotNet\lab6\Lab6\Lab6\bin\Debug\Lab6.pdb
+D:\Studies\dotNet\lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.AssemblyReference.cache
+D:\Studies\dotNet\lab6\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+D:\Studies\dotNet\lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.cache
+D:\Studies\dotNet\lab6\Lab6\Lab6\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+D:\Studies\dotNet\lab6\Lab6\Lab6\obj\Debug\Lab6.exe
+D:\Studies\dotNet\lab6\Lab6\Lab6\obj\Debug\Lab6.pdb
